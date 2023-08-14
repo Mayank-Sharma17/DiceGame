@@ -7,4 +7,4 @@ Here is an alternative of rock-paper-scissor game.
 - Built with **HTML5, CSS3, JavaScript**
 
 ## Screenshots
-![Screenshot 2023-08-14 174446](https://github.com/Mayank-Sharma17/DiceGame/assets/113251342/017d4af3-8025-4968-bd19-ec6f48308345)
+![Screenshot 2023-08-14 184219](https://github.com/Mayank-Sharma17/DiceGame/assets/113251342/643a7da0-87ff-4630-85bd-3d2bcd58ba1d)
